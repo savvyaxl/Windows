@@ -1,8 +1,4 @@
 @echo off
-rem set "CurrentDir=%cd%"
-rem echo The current directory is: %CurrentDir%
-rem powershell c:\temp\GetDate.ps1
-
 setlocal
 
 rem Get current directory
